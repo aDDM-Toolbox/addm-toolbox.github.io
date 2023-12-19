@@ -1,0 +1,7 @@
+name = "LandingPage"
+uuid = "c01bdbec-92c0-4c07-854e-f17b6bf1782e"
+authors = ["Zeynep Enkavi <zeynepenkavi@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
